@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="38px" viewBox="0 0 48 38" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>treemap</title>
+    <g stroke="none" stroke-width="1">
+        <g>
+            <path d="M0,38 L0,8 L48,8 L48,38 L0,38 L0,38 Z M46,36 L46,10 L2,10 L2,36 L46,36 L46,36 Z M4,4 L44,4 L44,6 L4,6 L4,4 L4,4 Z M8,0 L40,0 L40,2 L8,2 L8,0 L8,0 Z M18.651,30.008 L12,23 L18.651,15.991 L20.016,17.398 L14.73,23 L20.016,28.602 L18.651,30.008 L18.651,30.008 Z M29.349,15.992 L36,23 L29.349,30.009 L27.984,28.602 L33.27,23 L27.984,17.398 L29.349,15.992 L29.349,15.992 Z"></path>
+        </g>
+    </g>
+</svg>

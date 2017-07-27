@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+    <g fill-rule="evenodd">
+        <path d="m1.769 1.01v9.225h9.245v1.491h-10.736v-10.723l1.49.007"/>
+        <path d="m12.03-.001l-1.023 4.967-1.456-1.455-4.993 4.965-1.062-1.014 4.998-4.995-1.48-1.472 5.01-.996"/>
+    </g>
+</svg>
