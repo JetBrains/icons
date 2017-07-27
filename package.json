@@ -1,0 +1,38 @@
+{
+  "name": "@jetbrains/icons",
+  "version": "1.0.0",
+  "description": "Jetbrains Web UI Icons Library",
+  "main": "index.js",
+  "files": [
+    "*.svg"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JetBrains/icons.git"
+  },
+  "homepage": "https://github.com/JetBrains/icons#readme",
+  "keywords": [
+    "icons",
+    "svg",
+    "jetbrains"
+  ],
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "ci-publish": "^1.3.0",
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0",
+    "standard-version": "^4.0.0",
+    "svgo": "0.6.1"
+  },
+  "scripts": {
+    "build": "svgo -f src -o .",
+    "commit": "git-cz",
+    "prerelease:ci": "npm run build",
+    "release:ci": "standard-version && git push --follow-tags origin master && ci-publish"
+  }
+}
