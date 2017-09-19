@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/JetBrains/icons/compare/v1.4.0...v1.5.0) (2017-09-19)
+
+
+### Features
+
+* **[publish]:** Add spinner icon ([3b0a814](https://github.com/JetBrains/icons/commit/3b0a814))
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/JetBrains/icons/compare/v1.3.0...v1.4.0) (2017-09-05)
 
