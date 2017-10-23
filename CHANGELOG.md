@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.7.0"></a>
+# [1.7.0](https://github.com/JetBrains/icons/compare/v1.6.1...v1.7.0) (2017-10-23)
+
+
+### Features
+
+* **[publish]:** added: link; updated: artifacts, no-artifacts ([ae7eb84](https://github.com/JetBrains/icons/commit/ae7eb84))
+
+
+
 <a name="1.6.1"></a>
 ## [1.6.1](https://github.com/JetBrains/icons/compare/v1.6.0...v1.6.1) (2017-10-10)
 
