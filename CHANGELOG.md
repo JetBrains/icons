@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.8.0"></a>
+# [1.8.0](https://github.com/JetBrains/icons/compare/v1.7.0...v1.8.0) (2017-10-27)
+
+
+### Features
+
+* **[publish]:** Added: overtime, pin (empty/filled), unknown OS; Fixed: search ([8fb6c6e](https://github.com/JetBrains/icons/commit/8fb6c6e))
+
+
+
 <a name="1.7.0"></a>
 # [1.7.0](https://github.com/JetBrains/icons/compare/v1.6.1...v1.7.0) (2017-10-23)
 
