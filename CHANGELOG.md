@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.9.1"></a>
+## [1.9.1](https://github.com/JetBrains/icons/compare/v1.9.0...v1.9.1) (2017-11-05)
+
+
+
 <a name="1.9.0"></a>
 # [1.9.0](https://github.com/JetBrains/icons/compare/v1.8.0...v1.9.0) (2017-10-31)
 
