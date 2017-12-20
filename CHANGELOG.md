@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.10.0"></a>
+# [1.10.0](https://github.com/JetBrains/icons/compare/v1.9.1...v1.10.0) (2017-12-20)
+
+
+### Features
+
+* **[publish]:** Added icons: add, file, folder; Fixed overtime icon ([d7830cb](https://github.com/JetBrains/icons/commit/d7830cb))
+
+
+
 <a name="1.9.1"></a>
 ## [1.9.1](https://github.com/JetBrains/icons/compare/v1.9.0...v1.9.1) (2017-11-05)
 
