@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.12.2"></a>
+## [1.12.2](https://github.com/JetBrains/icons/compare/v1.12.1...v1.12.2) (2018-01-10)
+
+
+### Bug Fixes
+
+* **[publish]:** Update warning and exception icons ([6ad9d4b](https://github.com/JetBrains/icons/commit/6ad9d4b))
+
+
+
 <a name="1.12.1"></a>
 ## [1.12.1](https://github.com/JetBrains/icons/compare/v1.12.0...v1.12.1) (2017-12-29)
 
