@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.14.1"></a>
+## [1.14.1](https://github.com/JetBrains/icons/compare/v1.14.0...v1.14.1) (2018-02-01)
+
+
+### Bug Fixes
+
+* **[publish]:** adjust tag icon ([8da0e69](https://github.com/JetBrains/icons/commit/8da0e69))
+
+
+
 <a name="1.14.0"></a>
 # [1.14.0](https://github.com/JetBrains/icons/compare/v1.13.0...v1.14.0) (2018-01-26)
 
