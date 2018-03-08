@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
-	<path transform="matrix(.70712-.70709.70709.70712-3.288 7.937)" d="m7.187.955h1.5v13.964h-1.5z"/>
-	<path transform="matrix(.70711-.70711.70711.70711-3.251 8.03)" d="m1.081 7.187h13.964v1.5h-13.964z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M2.47 3.53l1.06-1.06 9.874 9.874-1.06 1.06z"/><path d="M2.595 12.348l9.874-9.874 1.061 1.06-9.874 9.874z"/></svg>
