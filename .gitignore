@@ -7,3 +7,4 @@ node_modules
 *.svg
 !src/*.svg
 .DS_Store
+yarn-error.log
