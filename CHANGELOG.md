@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.15.0"></a>
+# [1.15.0](https://github.com/JetBrains/icons/compare/v1.14.5...v1.15.0) (2018-03-30)
+
+
+### Features
+
+* **[publish]:** Help icon ([5ae61db](https://github.com/JetBrains/icons/commit/5ae61db))
+
+
+
 <a name="1.14.5"></a>
 ## [1.14.5](https://github.com/JetBrains/icons/compare/v1.14.4...v1.14.5) (2018-03-22)
 
