@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.17.0"></a>
+# [1.17.0](https://github.com/JetBrains/icons/compare/v1.16.2...v1.17.0) (2018-05-14)
+
+
+### Features
+
+* **[publish]:** gift icon ([af2c856](https://github.com/JetBrains/icons/commit/af2c856))
+
+
+
 <a name="1.16.2"></a>
 ## [1.16.2](https://github.com/JetBrains/icons/compare/v1.16.1...v1.16.2) (2018-04-27)
 
