@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.18.2"></a>
+## [1.18.2](https://github.com/JetBrains/icons/compare/v1.18.1...v1.18.2) (2018-06-19)
+
+
+### Bug Fixes
+
+* **[publish]:** user-success: correct classname placement ([7e91c00](https://github.com/JetBrains/icons/commit/7e91c00))
+
+
+
 <a name="1.18.1"></a>
 ## [1.18.1](https://github.com/JetBrains/icons/compare/v1.18.0...v1.18.1) (2018-06-19)
 
