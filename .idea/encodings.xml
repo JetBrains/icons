@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/cancelled.svg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/e-mail.svg" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/gift.svg" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/overtime.svg" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/pin-empty.svg" charset="windows-1251" />
@@ -9,6 +10,9 @@
     <file url="file://$PROJECT_DIR$/src/search.svg" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/success.svg" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/unknown-os.svg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/user-cancelled.svg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/user-exception.svg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/user-success.svg" charset="windows-1251" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
