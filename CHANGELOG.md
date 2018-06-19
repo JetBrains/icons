@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.18.0"></a>
+# [1.18.0](https://github.com/JetBrains/icons/compare/v1.17.0...v1.18.0) (2018-06-19)
+
+
+### Features
+
+* **[publish]:** new icons: user-*, e-mail ([fb3a907](https://github.com/JetBrains/icons/commit/fb3a907))
+
+
+
 <a name="1.17.0"></a>
 # [1.17.0](https://github.com/JetBrains/icons/compare/v1.16.2...v1.17.0) (2018-05-14)
 
