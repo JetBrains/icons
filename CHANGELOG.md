@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.18.3"></a>
+## [1.18.3](https://github.com/JetBrains/icons/compare/v1.18.2...v1.18.3) (2018-06-21)
+
+
+### Bug Fixes
+
+* **[publish]:** update user-exception ([a3e647e](https://github.com/JetBrains/icons/commit/a3e647e))
+
+
+
 <a name="1.18.2"></a>
 ## [1.18.2](https://github.com/JetBrains/icons/compare/v1.18.1...v1.18.2) (2018-06-19)
 
