@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.19.0"></a>
+# [1.19.0](https://github.com/JetBrains/icons/compare/v1.18.5...v1.19.0) (2018-08-20)
+
+
+### Features
+
+* **[publish]:** new icons: file, folder, archive ([0def745](https://github.com/JetBrains/icons/commit/0def745))
+
+
+
 <a name="1.18.5"></a>
 ## [1.18.5](https://github.com/JetBrains/icons/compare/v1.18.4...v1.18.5) (2018-07-20)
 
