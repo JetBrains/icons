@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.20.0"></a>
+# [1.20.0](https://github.com/JetBrains/icons/compare/v1.19.0...v1.20.0) (2018-09-20)
+
+
+### Features
+
+* **[publish]:** TeamCity icons ([8a69b31](https://github.com/JetBrains/icons/commit/8a69b31))
+
+
+
 <a name="1.19.0"></a>
 # [1.19.0](https://github.com/JetBrains/icons/compare/v1.18.5...v1.19.0) (2018-08-20)
 
