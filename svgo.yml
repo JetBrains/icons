@@ -1,3 +1,4 @@
 plugins:
   - cleanupIDs:
       force: true
+  - removeViewBox: false
