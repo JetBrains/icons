@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.21.0"></a>
+# [1.21.0](https://github.com/JetBrains/icons/compare/v1.20.3...v1.21.0) (2018-11-27)
+
+
+### Features
+
+* **[publish]:** torrent icon ([8985ad0](https://github.com/JetBrains/icons/commit/8985ad0))
+
+
+
 <a name="1.20.3"></a>
 ## [1.20.3](https://github.com/JetBrains/icons/compare/v1.20.2...v1.20.3) (2018-11-12)
 
