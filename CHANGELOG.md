@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/JetBrains/icons/compare/v1.21.0...v2.0.0) (2018-11-29)
+
+
+### Features
+
+* **[publish]:** RG-1926 Update Icons for Ring UI ([80411b2](https://github.com/JetBrains/icons/commit/80411b2))
+
+
+### BREAKING CHANGES
+
+* **[publish]:** A lot of appearence changes, size changes for hourglass, star-*, and warning icons
+
+RG-1926 Update Icons for Ring UI
+
+
+
 <a name="1.21.0"></a>
 # [1.21.0](https://github.com/JetBrains/icons/compare/v1.20.3...v1.21.0) (2018-11-27)
 
