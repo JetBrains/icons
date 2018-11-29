@@ -8,7 +8,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Bug Fixes
 
-* **[publish]:** remove github icon ([d5d6834](https://github.com/JetBrains/icons/commit/d5d6834))
+* **[publish]:** remove "github" icon ([d5d6834](https://github.com/JetBrains/icons/commit/d5d6834))
 
 
 
@@ -23,7 +23,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### BREAKING CHANGES
 
-* **[publish]:** A lot of appearence changes, size changes for hourglass, star-*, and warning icons
+* **[publish]:** A lot of appearance changes, size changes for "hourglass", "star-*", and "warning" icons
 
 RG-1926 Update Icons for Ring UI
 
