@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.0-0"></a>
+# [3.0.0-0](https://github.com/JetBrains/icons/compare/v2.0.2...v3.0.0-0) (2018-12-05)
+
+
+### Code Refactoring
+
+* **[publish]:** Merge "remove" and "cancelled" icons into "cancel" ([7b1b474](https://github.com/JetBrains/icons/commit/7b1b474))
+
+
+### BREAKING CHANGES
+
+* **[publish]:** removed icons
+
+RG-1926 Update Icons for Ring UI
+
+
+
 <a name="2.0.2"></a>
 ## [2.0.2](https://github.com/JetBrains/icons/compare/v2.0.1...v2.0.2) (2018-12-03)
 
