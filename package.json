@@ -33,6 +33,6 @@
     "build": "svgo -f src -o . --config=svgo.yml",
     "commit": "git-cz",
     "prerelease:ci": "npm run build",
-    "release:ci": "standard-version && git push --follow-tags origin master && ci-publish"
+    "release:ci": "standard-version --prerelease && git push --follow-tags origin master && npm publish --tag next"
   }
 }
