@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.23.0"></a>
+# [1.23.0](https://github.com/JetBrains/icons/compare/v1.22.0...v1.23.0) (2018-12-21)
+
+
+### Features
+
+* **[publish]:** Add investigation icon ([b2b0c29](https://github.com/JetBrains/icons/commit/b2b0c29))
+
+
+
 <a name="1.22.0"></a>
 # [1.22.0](https://github.com/JetBrains/icons/compare/v1.21.0...v1.22.0) (2018-12-05)
 
