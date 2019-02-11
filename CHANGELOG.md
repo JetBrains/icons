@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.0-11"></a>
+# [3.0.0-11](https://github.com/JetBrains/icons/compare/v3.0.0-10...v3.0.0-11) (2019-02-11)
+
+
+### Bug Fixes
+
+* **[publish] warning, investigation, paused:** fix dimensions for "S" versions ([8fd4299](https://github.com/JetBrains/icons/commit/8fd4299))
+
+
+
 <a name="3.0.0-10"></a>
 # [3.0.0-10](https://github.com/JetBrains/icons/compare/v3.0.0-9...v3.0.0-10) (2019-02-11)
 
