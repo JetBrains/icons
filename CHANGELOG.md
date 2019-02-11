@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.0-9"></a>
+# [3.0.0-9](https://github.com/JetBrains/icons/compare/v3.0.0-8...v3.0.0-9) (2019-02-11)
+
+
+### Bug Fixes
+
+* **vcs-root-S [publish]:** fix viewbox ([5e4a83e](https://github.com/JetBrains/icons/commit/5e4a83e))
+
+
+
 <a name="3.0.0-8"></a>
 # [3.0.0-8](https://github.com/JetBrains/icons/compare/v3.0.0-7...v3.0.0-8) (2019-02-11)
 
