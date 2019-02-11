@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.0-10"></a>
+# [3.0.0-10](https://github.com/JetBrains/icons/compare/v3.0.0-9...v3.0.0-10) (2019-02-11)
+
+
+### Bug Fixes
+
+* **[publish] warning:** fix dimensions, add 10px version ([767f273](https://github.com/JetBrains/icons/commit/767f273))
+
+
+### Features
+
+* **[publish] paused:** add 10px version ([8c2a1e2](https://github.com/JetBrains/icons/commit/8c2a1e2))
+
+
+
 <a name="3.0.0-9"></a>
 # [3.0.0-9](https://github.com/JetBrains/icons/compare/v3.0.0-8...v3.0.0-9) (2019-02-11)
 
