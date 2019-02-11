@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.0-7"></a>
+# [3.0.0-7](https://github.com/JetBrains/icons/compare/v3.0.0-6...v3.0.0-7) (2019-02-11)
+
+
+### Features
+
+* **updated all icons:** [publish] ([bc9d7c4](https://github.com/JetBrains/icons/commit/bc9d7c4))
+
+
+### BREAKING CHANGES
+
+* **updated all icons:** Icon dimensions are changed, most of the icons got 1px padding
+
+RG-1926
+
+
+
 <a name="3.0.0-6"></a>
 # [3.0.0-6](https://github.com/JetBrains/icons/compare/v3.0.0-5...v3.0.0-6) (2018-12-21)
 
