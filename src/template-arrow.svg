@@ -1,5 +1,1 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="19" height="17" viewBox="0 0 19 17">
-  <title>Build_Template_arrow</title>
-  <path d="M10.01384,10l2.95148,4.58521,1.49939,2.32941v-.00006l.04156.06458L18.99864,10ZM3,13V3H13V8.625h3V0H0V16H12.05609L10.125,13Z"/>
-  <path d="M8.98824,11.99609H7V5.76641H5.0113V4H11V5.76641H8.98824Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 16"><title>template-arrow</title><g id="Layer_1" data-name="Layer 1"><path d="M9,9l3.59,5.58.27.42.63,1L18,9ZM2.4,13.6V2.4H13.6V8H15V1H1V15H11.45l-.89-1.4ZM9,12v-.87L7,8v4ZM9,5.77h2V4H5V5.77H7V8H9Z"/></g></svg>

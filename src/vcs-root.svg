@@ -1,5 +1,1 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="19" height="17" viewBox="0 0 19 17">
-  <title>Build_VCS</title>
-  <path d="M13,0H0V16H16V0Zm0,13H3V3H13Z"/>
-  <polygon points="10 4 10 7.208 8 9.156 6 7.208 6 4 4 4 4 8 8.125 12 12 8 12 4 10 4"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 16"><title>vcs-root</title><g id="Layer_1" data-name="Layer 1"><path d="M12,8V4H10V7.21L8,9.15,6,7.21V4H4V8l4.12,4ZM1,1V15H15V1ZM13.6,13.6H2.4V2.4H13.6Z"/></g></svg>

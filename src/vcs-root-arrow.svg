@@ -1,5 +1,1 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="19" height="17" viewBox="0 0 19 17">
-  <title>Build_VCS_arrow</title>
-  <path d="M10.01384,10l2.95148,4.58521,1.49939,2.32941v-.00006l.04156.06458L18.99864,10ZM3,13V3H13V8.625h3V0H0V16H12.05609L10.125,13Z"/>
-  <path d="M10.02661,10.037,10.0625,10H10.003ZM10,4V7.20831L8.54736,8.62311l.00208.00189h2.84509L12,8V4ZM6,7.20831V4H4V8l4.125,4,.90436-.93353L7.46277,8.633Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 16"><title>vcs-root-arrow</title><g id="Layer_1" data-name="Layer 1"><path d="M9,9l4.49,7,.63-1h0L15,13.65h0L18,9Zm.17-1H12V4H10V7.21ZM2.4,13.6V2.4H13.6V8H15V1H1V15H11.68l-.9-1.4ZM4,4V8l4.12,4,1-1L8.17,9.54l-.39-.6L6,7.21V4Z"/></g></svg>

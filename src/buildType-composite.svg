@@ -1,4 +1,1 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="19" height="17" viewBox="0 0 19 17">
-  <title>Composite build</title>
-  <path d="M0,0V3H16V0ZM0,16H16V5H0ZM3,8H13v5H3Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 16"><title>buildType-composite</title><g id="Layer_1" data-name="Layer 1"><path d="M1,15H15V5H1ZM2.8,6.8H13.2v6.4H2.8ZM1,1.1V2.9H15V1.1Z"/></g></svg>
