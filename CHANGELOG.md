@@ -2,7 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-# [3.0.0-14](https://github.com/JetBrains/icons/compare/v3.0.0-13...v3.0.0-14) (2019-03-05)
+# [3.0.0-15](https://github.com/JetBrains/icons/compare/v3.0.0-14...v3.0.0-15) (2019-03-07)
+
+
+### Features
+
+* **[publish]:** Add explicit icon dimensions ([ef30792](https://github.com/JetBrains/icons/commit/ef30792))
 
 
 
