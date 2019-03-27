@@ -2,19 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-# [3.0.0-18](https://github.com/JetBrains/icons/compare/v3.0.0-17...v3.0.0-18) (2019-03-27)
+# [3.0.0-19](https://github.com/JetBrains/icons/compare/v3.0.0-18...v3.0.0-19) (2019-03-27)
 
 
-### Features
+### Bug Fixes
 
-* **[publish]:** Refactor icon sizes ([280451e](https://github.com/JetBrains/icons/commit/280451e))
+* **[publish]:** Mark secondary elements of user-*-20px icons ([16c7ff0](https://github.com/JetBrains/icons/commit/16c7ff0))
+
+
+* refactor([publish]): ([a78e55d](https://github.com/JetBrains/icons/commit/a78e55d))
 
 
 ### BREAKING CHANGES
 
-* **[publish]:** Size suffix convention has changed: Instead of `-S` and `-L` suffixes, particular
-ardboard size (`-10px`, `-14px`, or `-20px`) is used. Size suffix is omitted for default 16px
-artboard.
+* remove user-disc, rename user-success to user-ok and user-cancelled to user-cancel
+to match corresponding non-user icon names
 
 
 
