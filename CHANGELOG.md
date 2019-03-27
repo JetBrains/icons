@@ -2,7 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-# [3.0.0-17](https://github.com/JetBrains/icons/compare/v3.0.0-16...v3.0.0-17) (2019-03-13)
+# [3.0.0-18](https://github.com/JetBrains/icons/compare/v3.0.0-17...v3.0.0-18) (2019-03-27)
+
+
+### Features
+
+* **[publish]:** Refactor icon sizes ([280451e](https://github.com/JetBrains/icons/commit/280451e))
+
+
+### BREAKING CHANGES
+
+* **[publish]:** Size suffix convention has changed: Instead of `-S` and `-L` suffixes, particular
+ardboard size (`-10px`, `-14px`, or `-20px`) is used. Size suffix is omitted for default 16px
+artboard.
 
 
 
