@@ -2,21 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-# [3.0.0-19](https://github.com/JetBrains/icons/compare/v3.0.0-18...v3.0.0-19) (2019-03-27)
+# [3.0.0-20](https://github.com/JetBrains/icons/compare/v3.0.0-19...v3.0.0-20) (2019-03-28)
 
 
 ### Bug Fixes
 
-* **[publish]:** Mark secondary elements of user-*-20px icons ([16c7ff0](https://github.com/JetBrains/icons/commit/16c7ff0))
-
-
-* refactor([publish]): ([a78e55d](https://github.com/JetBrains/icons/commit/a78e55d))
-
-
-### BREAKING CHANGES
-
-* remove user-disc, rename user-success to user-ok and user-cancelled to user-cancel
-to match corresponding non-user icon names
+* **star [publish]:** Add paddings ([3781721](https://github.com/JetBrains/icons/commit/3781721))
+* **vcs-root-20px:** Fix jumping when showing arrow ([d03e8c7](https://github.com/JetBrains/icons/commit/d03e8c7))
 
 
 
