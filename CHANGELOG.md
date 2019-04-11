@@ -2,13 +2,7 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-# [3.0.0-20](https://github.com/JetBrains/icons/compare/v3.0.0-19...v3.0.0-20) (2019-03-28)
-
-
-### Bug Fixes
-
-* **star [publish]:** Add paddings ([3781721](https://github.com/JetBrains/icons/commit/3781721))
-* **vcs-root-20px:** Fix jumping when showing arrow ([d03e8c7](https://github.com/JetBrains/icons/commit/d03e8c7))
+## [3.0.1](https://github.com/JetBrains/icons/compare/v3.0.0-20...v3.0.1) (2019-04-11)
 
 
 
