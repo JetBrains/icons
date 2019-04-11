@@ -1,6 +1,6 @@
 {
   "name": "@jetbrains/icons",
-  "version": "3.0.0-20",
+  "version": "3.0.0",
   "description": "Jetbrains Web UI Icons Library",
   "main": "index.js",
   "files": [
@@ -32,6 +32,6 @@
     "build": "svgo -f src -o . --config=svgo.yml",
     "commit": "git-cz",
     "prerelease:ci": "npm run build",
-    "release:ci": "standard-version --prerelease && git push --follow-tags origin master && npm publish --tag next"
+    "release:ci": "standard-version && git push --follow-tags origin master && npm publish"
   }
 }
