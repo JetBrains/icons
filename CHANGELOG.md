@@ -2,7 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [3.0.1](https://github.com/JetBrains/icons/compare/v3.0.0-20...v3.0.1) (2019-04-11)
+# [3.1.0](https://github.com/JetBrains/icons/compare/v3.0.1...v3.1.0) (2019-04-18)
+
+
+### Features
+
+* **[publish]:** Add new icons: filters.svg, double-chevron-left.svg, double-chevron-right.svg ([fabecab](https://github.com/JetBrains/icons/commit/fabecab))
 
 
 
