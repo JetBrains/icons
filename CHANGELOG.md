@@ -2,12 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [3.1.1](https://github.com/JetBrains/icons/compare/v3.1.0...v3.1.1) (2019-05-20)
+## [3.1.2](https://github.com/JetBrains/icons/compare/v3.1.1...v3.1.2) (2019-05-31)
 
 
 ### Bug Fixes
 
-* **[publish]:** make project-14px icons sharper ([06fe809](https://github.com/JetBrains/icons/commit/06fe809))
+* **[publish]:** make buildType-14px icons sharper ([2a5ef9c](https://github.com/JetBrains/icons/commit/2a5ef9c))
 
 
 
