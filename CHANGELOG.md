@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.3.0](https://github.com/JetBrains/icons/compare/v3.2.1...v3.3.0) (2019-08-23)
+
+
+### Features
+
+* **[publish]:** icons for unauthorized and disconnected agent ([b9834e1](https://github.com/JetBrains/icons/commit/b9834e1))
+
+
+
 ### [3.2.1](https://github.com/JetBrains/icons/compare/v3.2.0...v3.2.1) (2019-07-18)
 
 
