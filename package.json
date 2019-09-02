@@ -29,6 +29,7 @@
     "svgo": "^1.2.2"
   },
   "scripts": {
+    "start": "node example/index.js",
     "build": "svgo -f src -o . --config=svgo.yml",
     "commit": "git-cz",
     "prerelease:ci": "npm run build",
