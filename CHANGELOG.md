@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.5.0](https://github.com/JetBrains/icons/compare/v3.4.5...v3.5.0) (2019-10-02)
+
+
+### Features
+
+* **[publish]:** RG-2017 add file type icons ([8ae8225](https://github.com/JetBrains/icons/commit/8ae8225))
+
+
+
 ### [3.4.5](https://github.com/JetBrains/icons/compare/v3.4.4...v3.4.5) (2019-09-04)
 
 
