@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.6.0](https://github.com/JetBrains/icons/compare/v3.5.0...v3.6.0) (2019-11-26)
+
+
+### Features
+
+* **[publish]:** add mute icon ([b7fa8b7](https://github.com/JetBrains/icons/commit/b7fa8b7))
+
+
+
 ## [3.5.0](https://github.com/JetBrains/icons/compare/v3.4.5...v3.5.0) (2019-10-02)
 
 
