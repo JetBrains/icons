@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.7.0](https://github.com/JetBrains/icons/compare/v3.6.0...v3.7.0) (2020-04-20)
+
+
+### Features
+
+* **[publish]:** add arrow-up icon ([f16c3bb](https://github.com/JetBrains/icons/commit/f16c3bb))
+
+
+
 ## [3.6.0](https://github.com/JetBrains/icons/compare/v3.5.0...v3.6.0) (2019-11-26)
 
 
