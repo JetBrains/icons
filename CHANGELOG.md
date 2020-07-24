@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.8.0](https://github.com/JetBrains/icons/compare/v3.7.0...v3.8.0) (2020-07-24)
+
+
+### Features
+
+* **[publish]:** add "emoji-round" and "emoji-round-plus" icon ([7decbba](https://github.com/JetBrains/icons/commit/7decbba281d5e02373951f10768cbfb1f56ef324))
+
 ## [3.7.0](https://github.com/JetBrains/icons/compare/v3.6.0...v3.7.0) (2020-04-20)
 
 
