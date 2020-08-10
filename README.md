@@ -13,6 +13,9 @@ npm install @jetbrains/icons
 
 You might need to set up appropriate infrastracture to use icons in your app. We recommend to use [webpack](https://webpack.github.io/) and [svg-sprite-loader](https://github.com/kisenka/svg-sprite-loader) in order to use this icons in your app.
 
+It is also possible to import icon as a JS file without setting up any loaders:
+`import lockIconSource from '@jetbrains/icons/lock'`
+
 ## Contributing
 
 To add an icon, one should just create an `.svg` file in the "src" directory. All icons are processed with SVGO on publish. Even though SVGO removes pretty every unnecessary attribute, please ensure that file doesn't contain generated IDs, `<title>`-element or any other junk.

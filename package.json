@@ -30,7 +30,8 @@
   },
   "scripts": {
     "start": "node example/index.js",
-    "build": "svgo -f src -o . --config=svgo.yml",
+    "generate-exports": "node scripts/generate-exports.js",
+    "build": "svgo -f src -o . --config=svgo.yml && npm run generate-exports",
     "commit": "git-cz",
     "prerelease:ci": "npm run build",
     "release:ci": "standard-version && git push --follow-tags origin master && npm publish"
