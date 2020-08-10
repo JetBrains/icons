@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.9.0](https://github.com/JetBrains/icons/compare/v3.8.0...v3.9.0) (2020-08-10)
+
+
+### Features
+
+* **[publish]:** support importing icon sources without loaders ([b920909](https://github.com/JetBrains/icons/commit/b920909292280b3fc74d52e23f775452bdaeb453))
+
 ## [3.8.0](https://github.com/JetBrains/icons/compare/v3.7.0...v3.8.0) (2020-07-24)
 
 
