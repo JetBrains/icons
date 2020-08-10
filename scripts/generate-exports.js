@@ -5,7 +5,7 @@ const SRC_DIR = path.resolve(__dirname, '../');
 const TARGET_DIR = path.resolve(__dirname, '../');
 
 function excapeSource(src) {
-  return src.replace(/"/g, '\\"');
+  return src.replace(/'/g, "\\'");
 }
 
 function generate() {
@@ -22,7 +22,7 @@ function generate() {
       const jsFileName = filename.replace('.svg', '.js');
       
       const fileContent = fs.readFileSync(`${SRC_DIR}/${filename}`, 'utf-8');
-      const source = `module.exports = "${excapeSource(fileContent)}";`;
+      const source = `module.exports = '${excapeSource(fileContent)}';`;
       
       fs.writeFileSync(path.join(TARGET_DIR, jsFileName), source);
       console.log(`Generated ${jsFileName}`)
