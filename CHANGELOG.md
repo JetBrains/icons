@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.10.0](https://github.com/JetBrains/icons/compare/v3.9.1...v3.10.0) (2020-10-22)
+
+
+### Features
+
+* **paused-outline icon:** outline paused icons in addition to filled icons ([586536a](https://github.com/JetBrains/icons/commit/586536a84f1a803bdb739b58dce9fed835d68c63))
+
+
+### Bug Fixes
+
+* **paused outline icons:** removed centering for icon content ([a8ebd29](https://github.com/JetBrains/icons/commit/a8ebd2904cb7794b4b85d3b9241d6b7a846e789f))
+
 ### [3.9.1](https://github.com/JetBrains/icons/compare/v3.9.0...v3.9.1) (2020-08-10)
 
 ## [3.9.0](https://github.com/JetBrains/icons/compare/v3.8.0...v3.9.0) (2020-08-10)
