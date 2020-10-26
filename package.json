@@ -23,9 +23,9 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "commitizen": "^4.0.4",
+    "commitizen": "^4.2.2",
     "cz-conventional-changelog": "^2.1.0",
-    "standard-version": "^8.0.1",
+    "standard-version": "^9.0.0",
     "svgo": "^1.2.2"
   },
   "scripts": {
