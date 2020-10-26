@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.11.0](https://github.com/JetBrains/icons/compare/v3.10.0...v3.11.0) (2020-10-26)
+
+
+### Features
+
+* **[publish]:** new icons: run, stack ([a16dfb8](https://github.com/JetBrains/icons/commit/a16dfb831088d6cc0f6c2f1d3f0f42ce52aa8834))
+
 ## [3.10.0](https://github.com/JetBrains/icons/compare/v3.9.1...v3.10.0) (2020-10-22)
 
 
