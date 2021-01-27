@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.13.0](https://github.com/JetBrains/icons/compare/v3.12.0...v3.13.0) (2021-01-27)
+
+
+### Features
+
+* **[publish]:** also publish ".js" files for icons to allow importing without loaders ([a136a82](https://github.com/JetBrains/icons/commit/a136a82bf98c7a5949e2d5e432f72948a8366b0a))
+
 ## [3.12.0](https://github.com/JetBrains/icons/compare/v3.11.2...v3.12.0) (2021-01-12)
 
 
