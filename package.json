@@ -4,7 +4,8 @@
   "description": "Jetbrains Web UI Icons Library",
   "main": "index.js",
   "files": [
-    "*.svg"
+    "*.svg",
+    "*.js"
   ],
   "repository": {
     "type": "git",
