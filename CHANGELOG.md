@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.14.1](https://github.com/JetBrains/icons/compare/v3.14.0...v3.14.1) (2021-03-09)
+
+
+### Bug Fixes
+
+* **similar icon:** add missing "width" and "height" attrs ([2c3152b](https://github.com/JetBrains/icons/commit/2c3152befaf8a88d13c39528104781ff1f7d770d))
+
 ## [3.14.0](https://github.com/JetBrains/icons/compare/v3.13.1...v3.14.0) (2021-03-09)
 
 
