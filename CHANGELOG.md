@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.14.0](https://github.com/JetBrains/icons/compare/v3.13.1...v3.14.0) (2021-03-09)
+
+
+### Features
+
+* **[publish]:** new icon: "similar" ([147d1ef](https://github.com/JetBrains/icons/commit/147d1ef29855e989d3228dd2aeee8efeb34e15d1))
+
 ### [3.13.1](https://github.com/JetBrains/icons/compare/v3.13.0...v3.13.1) (2021-02-12)
 
 ## [3.13.0](https://github.com/JetBrains/icons/compare/v3.12.0...v3.13.0) (2021-01-27)
