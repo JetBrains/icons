@@ -17,7 +17,7 @@ const requestHandler = (request, response) => {
     response.end(`
 <html>
     <head>
-        <title>JetBrians Icons demo list</title>
+        <title>JetBrains Icons demo list</title>
     </head>
     <body>
         <table>
