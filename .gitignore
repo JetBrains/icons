@@ -7,6 +7,7 @@ npm-debug.log
 node_modules
 *.svg
 *.js
+*.d.ts
 !index.js
 !src/*.svg
 .DS_Store

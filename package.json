@@ -5,7 +5,8 @@
   "main": "index.js",
   "files": [
     "*.svg",
-    "*.js"
+    "*.js",
+    "*.d.ts"
   ],
   "repository": {
     "type": "git",
