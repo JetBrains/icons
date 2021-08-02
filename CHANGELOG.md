@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.15.0](https://github.com/JetBrains/icons/compare/v3.14.1...v3.15.0) (2021-08-02)
+
+
+### Features
+
+* **[publish]:** add .d.ts files ([02c0c88](https://github.com/JetBrains/icons/commit/02c0c8858b70f3a1bcd81d280be822a30fa27a7a))
+
 ### [3.14.1](https://github.com/JetBrains/icons/compare/v3.14.0...v3.14.1) (2021-03-09)
 
 
