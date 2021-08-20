@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.17.0](https://github.com/JetBrains/icons/compare/v3.16.0...v3.17.0) (2021-08-20)
+
+
+### Features
+
+* **[publish]:** new icons: file-go, file-kotlin, file-python ([fc386a7](https://github.com/JetBrains/icons/commit/fc386a7197e9a02eae9cc695081f71ee1d6c46ae))
+
 ## [3.16.0](https://github.com/JetBrains/icons/compare/v3.15.1...v3.16.0) (2021-08-12)
 
 
