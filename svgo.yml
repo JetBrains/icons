@@ -1,6 +1,7 @@
 plugins:
   - cleanupIDs:
       force: true
+      minify: false
   - removeViewBox: false
-  - removeUnknownsAndDefaults: 
+  - removeUnknownsAndDefaults:
       keepDataAttrs: false
