@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.18.0](https://github.com/JetBrains/icons/compare/v3.17.1...v3.18.0) (2021-10-25)
+
+
+### Features
+
+* **[publish]:** add log icon ([acbf4f3](https://github.com/JetBrains/icons/commit/acbf4f3eee23d2f585501d6cd1853074da6bd20d))
+
 ### [3.17.1](https://github.com/JetBrains/icons/compare/v3.17.0...v3.17.1) (2021-09-01)
 
 ## [3.17.0](https://github.com/JetBrains/icons/compare/v3.16.0...v3.17.0) (2021-08-20)
