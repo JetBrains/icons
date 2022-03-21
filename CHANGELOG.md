@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.19.0](https://github.com/JetBrains/icons/compare/v3.18.0...v3.19.0) (2022-03-21)
+
+
+### Features
+
+* **[publish]:** dSGN-12879 Add "search" and "close" icons in 12x12 pixel grid ([7c69a15](https://github.com/JetBrains/icons/commit/7c69a154c5d0e86d0f30b897d353114d6627a6a9))
+
 ## [3.18.0](https://github.com/JetBrains/icons/compare/v3.17.1...v3.18.0) (2021-10-25)
 
 
