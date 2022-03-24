@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.19.1](https://github.com/JetBrains/icons/compare/v3.19.0...v3.19.1) (2022-03-24)
+
+
+### Bug Fixes
+
+* **[publish]:** remove redundant clipPath ([a1baa40](https://github.com/JetBrains/icons/commit/a1baa40920c047ad7cb57e6759d18ddd265d7118))
+
 ## [3.19.0](https://github.com/JetBrains/icons/compare/v3.18.0...v3.19.0) (2022-03-21)
 
 
