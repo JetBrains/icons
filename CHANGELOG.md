@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.20.0](https://github.com/JetBrains/icons/compare/v3.19.1...v3.20.0) (2022-11-29)
+
+
+### Features
+
+* **[publish]:** add artifacts-add icon ([a0bb422](https://github.com/JetBrains/icons/commit/a0bb422d593faa702ebe3f0d20c4dc7697d6a627))
+
 ### [3.19.1](https://github.com/JetBrains/icons/compare/v3.19.0...v3.19.1) (2022-03-24)
 
 
