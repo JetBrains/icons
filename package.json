@@ -28,7 +28,7 @@
     "commitizen": "^4.2.2",
     "cz-conventional-changelog": "^2.1.0",
     "standard-version": "^9.0.0",
-    "svgo": "^1.2.2"
+    "svgo": "^3.0.2"
   },
   "scripts": {
     "start": "node example/index.js",
