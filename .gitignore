@@ -8,6 +8,7 @@ node_modules
 *.svg
 *.js
 *.d.ts
+!svgo.config.js
 !index.js
 !src/*.svg
 .DS_Store
