@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.20.1](https://github.com/JetBrains/icons/compare/v3.20.0...v3.20.1) (2023-01-11)
+
+
+### Bug Fixes
+
+* **[publish]:** dSGN-13937 Make the line in "remove" icon as thin as in "checkmark" ([99c09b0](https://github.com/JetBrains/icons/commit/99c09b01efe9b795a7207f65522da6d529e2f338))
+* **[publish]:** dSGN-13937 Make the line in "remove" icon as thin as in "checkmark" ([c4b5f3d](https://github.com/JetBrains/icons/commit/c4b5f3d73abcc479ab232e13a1982bbce6928222))
+
 ## [3.20.0](https://github.com/JetBrains/icons/compare/v3.19.1...v3.20.0) (2022-11-29)
 
 
