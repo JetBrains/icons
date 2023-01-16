@@ -2,6 +2,7 @@
 .idea/tasks.xml
 .idea/dictionaries
 .idea/usage.statistics.xml
+.idea/shelf
 
 npm-debug.log
 node_modules
