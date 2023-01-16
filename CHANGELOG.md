@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.20.2](https://github.com/JetBrains/icons/compare/v3.20.1...v3.20.2) (2023-01-16)
+
+
+### Bug Fixes
+
+* **[publish]:** run.svg: remove hardcoded fill ([c6f2fe3](https://github.com/JetBrains/icons/commit/c6f2fe3a6154133dbc2b8775da35711dba0d8e4e))
+
 ### [3.20.1](https://github.com/JetBrains/icons/compare/v3.20.0...v3.20.1) (2023-01-11)
 
 
