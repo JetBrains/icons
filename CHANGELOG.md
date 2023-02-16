@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.21.0](https://github.com/JetBrains/icons/compare/v3.20.3...v3.21.0) (2023-02-16)
+
+
+### Features
+
+* **[publish]:** add an extra size to the collapse and expand icons ([66e45fc](https://github.com/JetBrains/icons/commit/66e45fcec164807de63b72edcf75d2b28d044bf9))
+
 ### [3.20.3](https://github.com/JetBrains/icons/compare/v3.20.2...v3.20.3) (2023-01-17)
 
 ### [3.20.2](https://github.com/JetBrains/icons/compare/v3.20.1...v3.20.2) (2023-01-16)
