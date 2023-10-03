@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.22.0](https://github.com/JetBrains/icons/compare/v3.21.0...v3.22.0) (2023-10-03)
+
+
+### Features
+
+* **[publish]:** new "terminal" icon ([93634b0](https://github.com/JetBrains/icons/commit/93634b0a8144a3ec18ad481f8e0c693754e7c8ec))
+
 ## [3.21.0](https://github.com/JetBrains/icons/compare/v3.20.3...v3.21.0) (2023-02-16)
 
 
