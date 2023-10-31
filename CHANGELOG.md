@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.23.0](https://github.com/JetBrains/icons/compare/v3.22.0...v3.23.0) (2023-10-31)
+
+
+### Features
+
+* **[publish]:** new "success" icon ([f49febb](https://github.com/JetBrains/icons/commit/f49febb34bfb203ea536b706f4d1e70428ac11e3))
+
 ## [3.22.0](https://github.com/JetBrains/icons/compare/v3.21.0...v3.22.0) (2023-10-03)
 
 
