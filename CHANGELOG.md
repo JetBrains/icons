@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.24.0](https://github.com/JetBrains/icons/compare/v3.23.1...v3.24.0) (2023-11-07)
+
+
+### Features
+
+* **[publish]:** JUI-26 update galaxy icon ([b2afff1](https://github.com/JetBrains/icons/commit/b2afff108337d664504bda992798c10751c8a1d6))
+
 ### [3.23.1](https://github.com/JetBrains/icons/compare/v3.23.0...v3.23.1) (2023-10-31)
 
 ## [3.23.0](https://github.com/JetBrains/icons/compare/v3.22.0...v3.23.0) (2023-10-31)
