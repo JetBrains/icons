@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" viewBox="0 0 12 12">
+  <g class="merge-12px">
+    <path fill-rule="evenodd" d="M3 11a.5.5 0 0 0 .5-.5V4.937a2.004 2.004 0 0 0 1.43-1.414A4 4 0 0 1 8.478 7.07a2 2 0 1 0 1.003-.01 5 5 0 0 0-4.538-4.54A2 2 0 1 0 2.5 4.938V10.5a.5.5 0 0 0 .5.5Zm6-1a1 1 0 1 1 0-2 1 1 0 0 1 0 2ZM3 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z" class="Icon (Stroke)" clip-rule="evenodd"/>
+  </g>
+</svg>

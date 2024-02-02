@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" viewBox="0 0 12 12">
+  <g class="buildType-composite-filled-arrow-12px">
+    <path fill-rule="evenodd" d="M1.75 1a.75.75 0 0 0 0 1.5h8.5a.75.75 0 0 0 0-1.5h-8.5Zm.321 10c-.294 0-.546-.103-.756-.308A1.001 1.001 0 0 1 1 9.95v-4.9c0-.289.105-.536.315-.742.21-.205.462-.308.756-.308H9.93c.294 0 .546.103.756.308.21.206.315.453.315.742v1.7H4.6L7.428 11H2.07Zm8.606-1.534L8.992 12 6 7.5h5.984L10.96 9.042l-.282.424Z" class="Union" clip-rule="evenodd"/>
+  </g>
+</svg>
