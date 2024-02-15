@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/JetBrains/icons/compare/v3.24.0...v4.0.0) (2024-02-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **all icons:** Remove the -14px icons. Please use -12px equivalents
+
+### Features
+
+* **all icons:** update all icons ([04f86ed](https://github.com/JetBrains/icons/commit/04f86ed0aca6df95ee701e77f676696e2454afe3))
+
 ## [3.24.0](https://github.com/JetBrains/icons/compare/v3.23.1...v3.24.0) (2023-11-07)
 
 
