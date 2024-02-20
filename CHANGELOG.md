@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.1](https://github.com/JetBrains/icons/compare/v4.0.0...v4.0.1) (2024-02-20)
+
+
+### Bug Fixes
+
+* **pin icon:** fix alignment ([8f4ca76](https://github.com/JetBrains/icons/commit/8f4ca762fb532725db4e8f80b925c469cb55a0b0))
+
 ## [4.0.0](https://github.com/JetBrains/icons/compare/v3.24.0...v4.0.0) (2024-02-15)
 
 
