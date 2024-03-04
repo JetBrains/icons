@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-<polygon points="16 8 13 5 13 7.3 8.7 7.3 8.7 3 11 3 8 0 5 3 7.3 3 7.3 7.3 3 7.3 3 5 0 8 3 11 3 8.7 7.3 8.7 7.3 13 5 13 8 16 11 13 8.7 13 8.7 8.7 13 8.7 13 11 16 8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 16 16">
+  <g class="move">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25" d="M8 1.6v12.8M1.6 8h12.8M6 3.5l2-2 2 2m0 9-2 2-2-2M12.5 6l2 2-2 2m-9 0-2-2 2-2" class="Vector"/>
+  </g>
 </svg>
