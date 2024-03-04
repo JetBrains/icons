@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.1.0](https://github.com/JetBrains/icons/compare/v4.0.1...v4.1.0) (2024-03-04)
+
+
+### Features
+
+* **buildtype and project icons:** add half-fill for unknown status ([2cd8ed9](https://github.com/JetBrains/icons/commit/2cd8ed956cf1fe479935759c3fe349203ebb9c7d))
+
 ### [4.0.1](https://github.com/JetBrains/icons/compare/v4.0.0...v4.0.1) (2024-02-20)
 
 
