@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.2.0](https://github.com/JetBrains/icons/compare/v4.0.1...v4.2.0) (2024-04-11)
+
+
+### Features
+
+* **[publish]:** add add-circle and update cancel icons to allow secondary background ([380ce08](https://github.com/JetBrains/icons/commit/380ce089e13f14412ae9bdeda18235d54ad57162))
+* **buildtype and project icons:** add half-fill for unknown status ([2cd8ed9](https://github.com/JetBrains/icons/commit/2cd8ed956cf1fe479935759c3fe349203ebb9c7d))
+* rG-2408 Several Icon Updates ([e8d3375](https://github.com/JetBrains/icons/commit/e8d3375a83a9a994adcdeb963bf736782e0e614a))
+
 ## [4.1.0](https://github.com/JetBrains/icons/compare/v4.0.1...v4.1.0) (2024-03-04)
 
 
