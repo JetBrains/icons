@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.3.0](https://github.com/JetBrains/icons/compare/v4.2.0...v4.3.0) (2024-07-23)
+
+
+### Features
+
+* **[publish]:** "duplicate" icon ([e4505da](https://github.com/JetBrains/icons/commit/e4505daa0972e50dc9bb182f3626c4d197a4fa28))
+
 ## [4.2.0](https://github.com/JetBrains/icons/compare/v4.0.1...v4.2.0) (2024-04-11)
 
 
