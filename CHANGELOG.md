@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.4.0](https://github.com/JetBrains/icons/compare/v4.3.0...v4.4.0) (2024-07-25)
+
+
+### Features
+
+* **[publish]:** agents, changes, pipeline icons ([4992086](https://github.com/JetBrains/icons/commit/4992086987054dddd41716a2da70c7f0102d38a4))
+
 ## [4.3.0](https://github.com/JetBrains/icons/compare/v4.2.0...v4.3.0) (2024-07-23)
 
 
