@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.6.0](https://github.com/JetBrains/icons/compare/v4.5.0...v4.6.0) (2024-09-30)
+
+
+### Features
+
+* **[publish]:** TW-87169 Introduce new icons to the Ring UI ([d89439a](https://github.com/JetBrains/icons/commit/d89439a22a568afa39516fa692b8d61cf238605f))
+
 ## [4.5.0](https://github.com/JetBrains/icons/compare/v4.4.0...v4.5.0) (2024-09-30)
 
 
