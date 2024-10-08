@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.7.0](https://github.com/JetBrains/icons/compare/v4.6.0...v4.7.0) (2024-10-08)
+
+
+### Features
+
+* **[publish]:** TW-90107 add money-warning icon ([e99d86c](https://github.com/JetBrains/icons/commit/e99d86ccf348b782ef808e04857c85335f37bdab))
+
 ## [4.6.0](https://github.com/JetBrains/icons/compare/v4.5.0...v4.6.0) (2024-09-30)
 
 
