@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.7.1](https://github.com/JetBrains/icons/compare/v4.7.0...v4.7.1) (2024-10-15)
+
+
+### Bug Fixes
+
+* **[publish]:** make pipeline icons background transparent by default ([0471d36](https://github.com/JetBrains/icons/commit/0471d367a367e74cb9891bdcd09a48606d0338b4))
+
 ## [4.7.0](https://github.com/JetBrains/icons/compare/v4.6.0...v4.7.0) (2024-10-08)
 
 
