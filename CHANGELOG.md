@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.8.0](https://github.com/JetBrains/icons/compare/v4.7.1...v4.8.0) (2024-10-17)
+
+
+### Features
+
+* **[publish]:** TW-88703 update investigation icon ([e34a526](https://github.com/JetBrains/icons/commit/e34a52678c7b2b46cd0f0f7ba8ae8b771f915040))
+
 ### [4.7.1](https://github.com/JetBrains/icons/compare/v4.7.0...v4.7.1) (2024-10-15)
 
 
