@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.9.0](https://github.com/JetBrains/icons/compare/v4.8.0...v4.9.0) (2024-10-31)
+
+
+### Features
+
+* **[publish]:** settings-modifier icon ([6fd0f27](https://github.com/JetBrains/icons/commit/6fd0f276b7cdaaa5cdb034f788949bfbdfea63e2))
+
 ## [4.8.0](https://github.com/JetBrains/icons/compare/v4.7.1...v4.8.0) (2024-10-17)
 
 
