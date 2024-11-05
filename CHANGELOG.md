@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.10.0](https://github.com/JetBrains/icons/compare/v4.9.0...v4.10.0) (2024-11-05)
+
+
+### Features
+
+* **[publish]:** add bug icons ([4127111](https://github.com/JetBrains/icons/commit/4127111e9392f83a6f8b4671de56eee6f62257b7))
+
 ## [4.9.0](https://github.com/JetBrains/icons/compare/v4.8.0...v4.9.0) (2024-10-31)
 
 
