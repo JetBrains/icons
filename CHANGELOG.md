@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.11.0](https://github.com/JetBrains/icons/compare/v4.10.0...v4.11.0) (2024-11-05)
+
+
+### Features
+
+* **[publish]:** new "connected" icon and update "disconnected" icon ([3f2d101](https://github.com/JetBrains/icons/commit/3f2d1014952c0a91de776de35901c30a1907313f))
+
 ## [4.10.0](https://github.com/JetBrains/icons/compare/v4.9.0...v4.10.0) (2024-11-05)
 
 
