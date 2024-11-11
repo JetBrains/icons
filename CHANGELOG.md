@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/JetBrains/icons/compare/v4.11.0...v5.0.0) (2024-11-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* **[publish]:** All icons with -arrow and -fill suffixes got removed
+* **[publish]:** please use 12px and the default 16px sizes instead
+* **[publish]:** please adjust your styles accordingly
+
+### Bug Fixes
+
+* **[publish]:** changes, file-python, magic-wand: adjust for standard pixel grids ([e14458e](https://github.com/JetBrains/icons/commit/e14458e39ba5578e51d7b9d6374960997373cbe0))
+
+
+* **[publish]:** remove outdated 10px and 14px sizes ([3752503](https://github.com/JetBrains/icons/commit/375250327dc108a0e47f3027748878d504a4bb8b))
+* **[publish]:** remove outdated TeamCity icons ([00e0da0](https://github.com/JetBrains/icons/commit/00e0da0c1e06967d3e3c5649f9f4685d667bd7a4))
+
 ## [4.11.0](https://github.com/JetBrains/icons/compare/v4.10.0...v4.11.0) (2024-11-05)
 
 
