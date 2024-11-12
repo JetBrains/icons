@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.2.0](https://github.com/JetBrains/icons/compare/v5.1.0...v5.2.0) (2024-11-12)
+
+
+### Features
+
+* **[publish]:** tW-90487 Update icons: paused ([0725729](https://github.com/JetBrains/icons/commit/0725729db40149ae2ffbd7f366234196d5f63557))
+
 ## [5.1.0](https://github.com/JetBrains/icons/compare/v5.0.0...v5.1.0) (2024-11-12)
 
 
