@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.3.0](https://github.com/JetBrains/icons/compare/v5.2.0...v5.3.0) (2024-11-22)
+
+
+### Features
+
+* **[publish]:** kill-process icon ([6a4a27d](https://github.com/JetBrains/icons/commit/6a4a27d02ae09f200f406ada86bb185c7a04df6b))
+
 ## [5.2.0](https://github.com/JetBrains/icons/compare/v5.1.0...v5.2.0) (2024-11-12)
 
 
