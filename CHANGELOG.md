@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.4.1](https://github.com/JetBrains/icons/compare/v5.4.0...v5.4.1) (2024-12-23)
+
+
+### Bug Fixes
+
+* **[publish]:** fix order in edit icons ([44d7ed6](https://github.com/JetBrains/icons/commit/44d7ed652602a42c7bb4e17e423fdf334adad0fb))
+
 ## [5.4.0](https://github.com/JetBrains/icons/compare/v5.3.0...v5.4.0) (2024-11-28)
 
 
