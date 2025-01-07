@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.5.0](https://github.com/JetBrains/icons/compare/v5.4.1...v5.5.0) (2025-01-07)
+
+
+### Features
+
+* **publish:** add export and import icons ([06d76ae](https://github.com/JetBrains/icons/commit/06d76ae0cf6c64591ec812c659f3e8f7e19c448a))
+
 ### [5.4.1](https://github.com/JetBrains/icons/compare/v5.4.0...v5.4.1) (2024-12-23)
 
 
