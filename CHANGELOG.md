@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.6.0](https://github.com/JetBrains/icons/compare/v5.5.0...v5.6.0) (2025-01-24)
+
+
+### Features
+
+* **[publish]:** new unauthorized icon ([6cf333f](https://github.com/JetBrains/icons/commit/6cf333f2e093ffb8e00fb1d1f63b89771599e685))
+
 ## [5.5.0](https://github.com/JetBrains/icons/compare/v5.4.1...v5.5.0) (2025-01-07)
 
 
