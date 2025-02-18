@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.7.0](https://github.com/JetBrains/icons/compare/v5.6.1...v5.7.0) (2025-02-18)
+
+
+### Features
+
+* **[publish]:** add all sizes for filters icon ([a5fc8a4](https://github.com/JetBrains/icons/commit/a5fc8a487a14efa278d8ea2b94a4bf9e92923523))
+
 ### [5.6.1](https://github.com/JetBrains/icons/compare/v5.6.0...v5.6.1) (2025-02-11)
 
 ## [5.6.0](https://github.com/JetBrains/icons/compare/v5.5.0...v5.6.0) (2025-01-24)
