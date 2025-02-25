@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.8.0](https://github.com/JetBrains/icons/compare/v5.7.0...v5.8.0) (2025-02-25)
+
+
+### Features
+
+* **[publish]:** add project tree icons with locked modifier ([0a0416c](https://github.com/JetBrains/icons/commit/0a0416c3ac9b4d75e3d025a7111e463352280a67))
+
 ## [5.7.0](https://github.com/JetBrains/icons/compare/v5.6.1...v5.7.0) (2025-02-18)
 
 
