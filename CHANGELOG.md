@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.9.0](https://github.com/JetBrains/icons/compare/v5.8.1...v5.9.0) (2025-04-28)
+
+
+### Features
+
+* **[publish]:** add unfold icons ([ccd846e](https://github.com/JetBrains/icons/commit/ccd846e7a52738ade14a26e38b553924837f93e4))
+
 ### [5.8.1](https://github.com/JetBrains/icons/compare/v5.8.0...v5.8.1) (2025-04-24)
 
 ## [5.8.0](https://github.com/JetBrains/icons/compare/v5.7.0...v5.8.0) (2025-02-25)
