@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.10.0](https://github.com/JetBrains/icons/compare/v5.9.0...v5.10.0) (2025-04-29)
+
+
+### Features
+
+* **[publish]:** security icon ([db4737d](https://github.com/JetBrains/icons/commit/db4737dc70d8a9bd946e1404770c5b95dfb3abdf))
+
 ## [5.9.0](https://github.com/JetBrains/icons/compare/v5.8.1...v5.9.0) (2025-04-28)
 
 
