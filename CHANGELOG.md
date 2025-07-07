@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.11.0](https://github.com/JetBrains/icons/compare/v5.10.0...v5.11.0) (2025-07-07)
+
+
+### Features
+
+* **[publish]:** add locate icon ([dbbb88f](https://github.com/JetBrains/icons/commit/dbbb88f25efcc7be5594123c05f142344a734167))
+
 ## [5.10.0](https://github.com/JetBrains/icons/compare/v5.9.0...v5.10.0) (2025-04-29)
 
 
