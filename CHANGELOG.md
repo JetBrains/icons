@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.12.0](https://github.com/JetBrains/icons/compare/v5.11.0...v5.12.0) (2025-08-08)
+
+
+### Features
+
+* **[publish]:** RG-2643 Change Thumbs up/down icons ([9c1e981](https://github.com/JetBrains/icons/commit/9c1e98190f8e0a8921d89867d039c8266fb98905))
+
 ## [5.11.0](https://github.com/JetBrains/icons/compare/v5.10.0...v5.11.0) (2025-07-07)
 
 
