@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.13.0](https://github.com/JetBrains/icons/compare/v5.12.0...v5.13.0) (2025-09-10)
+
+
+### Features
+
+* **[publish]:** update comment and tag icons ([6bef4d1](https://github.com/JetBrains/icons/commit/6bef4d116422e0912f12be83697df9746aa54d00))
+
 ## [5.12.0](https://github.com/JetBrains/icons/compare/v5.11.0...v5.12.0) (2025-08-08)
 
 
