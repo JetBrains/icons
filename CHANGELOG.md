@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.14.0](https://github.com/JetBrains/icons/compare/v5.13.0...v5.14.0) (2025-09-18)
+
+
+### Features
+
+* **[publish]:** file-create icon ([25ca230](https://github.com/JetBrains/icons/commit/25ca230d42aac21356264911699bc0bc6cb87485))
+
 ## [5.13.0](https://github.com/JetBrains/icons/compare/v5.12.0...v5.13.0) (2025-09-10)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@jetbrains/icons",
-  "version": "5.13.0",
+  "version": "5.14.0",
   "description": "Jetbrains Web UI Icons Library",
   "main": "index.js",
   "files": [
