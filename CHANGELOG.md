@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.15.0](https://github.com/JetBrains/icons/compare/v5.14.0...v5.15.0) (2025-09-25)
+
+
+### Features
+
+* **[publish]:** add new pipeline, buildType and composite buildType icons ([0ae8566](https://github.com/JetBrains/icons/commit/0ae8566274c75ffe008d74fa62bc655cb2f234d2))
+
 ## [5.14.0](https://github.com/JetBrains/icons/compare/v5.13.0...v5.14.0) (2025-09-18)
 
 
