@@ -1,0 +1,13 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10.7293 10L10.7293 12.7083C10.7293 13.6288 11.4755 14.375 12.396 14.375L13.646 14.375" stroke="currentColor"
+          stroke-width="1.5"/>
+    <path d="M6.354 10L9.99984 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="15.8333" cy="14.375" r="2.16667" transform="rotate(90 15.8333 14.375)" stroke="currentColor"
+            stroke-width="1.5"/>
+    <path d="M10.7293 10L10.7293 7.29167C10.7293 6.37119 11.4755 5.625 12.396 5.625L13.646 5.625" stroke="currentColor"
+          stroke-width="1.5"/>
+    <circle cx="2.91667" cy="2.91667" r="2.16667" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 18.75 8.54163)"
+            stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="2.91667" cy="2.91667" r="2.16667" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 7.0835 12.9166)"
+            stroke="currentColor" stroke-width="1.5"/>
+</svg>

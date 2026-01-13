@@ -1,0 +1,9 @@
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M6.4375 6L6.4375 7.625C6.4375 8.17728 6.88522 8.625 7.4375 8.625L8.1875 8.625" stroke="currentColor"/>
+    <path d="M3.8125 6L6 6" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="9.5" cy="8.625" r="1.25" transform="rotate(90 9.5 8.625)" stroke="currentColor"/>
+    <path d="M6.4375 6L6.4375 4.375C6.4375 3.82272 6.88522 3.375 7.4375 3.375L8.1875 3.375" stroke="currentColor"/>
+    <circle cx="1.75" cy="1.75" r="1.25" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 11.25 5.125)"
+            stroke="currentColor"/>
+    <circle cx="1.75" cy="1.75" r="1.25" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 4.25 7.75)" stroke="currentColor"/>
+</svg>
