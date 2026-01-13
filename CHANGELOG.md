@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.16.0](https://github.com/JetBrains/icons/compare/v5.15.0...v5.16.0) (2026-01-13)
+
+
+### Features
+
+* **[publish]:** add build chain icon ([1adeb0d](https://github.com/JetBrains/icons/commit/1adeb0d6bf65be5e6c613b4462bf2ec22653a2e1))
+* update file type icons ([615dd0f](https://github.com/JetBrains/icons/commit/615dd0fd629f522d30fbc8623a0b8595f48e7426))
+
 ## [5.15.0](https://github.com/JetBrains/icons/compare/v5.14.0...v5.15.0) (2025-09-25)
 
 
