@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.17.0](https://github.com/JetBrains/icons/compare/v5.16.0...v5.17.0) (2026-02-27)
+
+
+### Features
+
+* **[publish]:** galaxy-chat icon ([10116e7](https://github.com/JetBrains/icons/commit/10116e7f7877857c088e02510d242d9064b13e7f))
+
 ## [5.16.0](https://github.com/JetBrains/icons/compare/v5.15.0...v5.16.0) (2026-01-13)
 
 
