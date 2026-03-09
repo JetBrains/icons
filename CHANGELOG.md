@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.19.0](https://github.com/JetBrains/icons/compare/v5.18.0...v5.19.0) (2026-03-09)
+
+
+### Features
+
+* exit icon [publish] ([9f00304](https://github.com/JetBrains/icons/commit/9f003042d2b9fa1993de596af61ede4c324e92e8))
+
 ## [5.18.0](https://github.com/JetBrains/icons/compare/v5.17.0...v5.18.0) (2026-03-09)
 
 
