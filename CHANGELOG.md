@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.18.0](https://github.com/JetBrains/icons/compare/v5.17.0...v5.18.0) (2026-03-09)
+
+
+### Features
+
+* TW-99223 Change cog icon to pencil [publish] ([940b686](https://github.com/JetBrains/icons/commit/940b6863e0f2276211b12fdbebf45e00222aaeba))
+
 ## [5.17.0](https://github.com/JetBrains/icons/compare/v5.16.0...v5.17.0) (2026-02-27)
 
 
