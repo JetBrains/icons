@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.20.0](https://github.com/JetBrains/icons/compare/v5.19.0...v5.20.0) (2026-04-13)
+
+
+### Features
+
+* **[publish]:** add build type and pipeline warning icons ([8ec8b0a](https://github.com/JetBrains/icons/commit/8ec8b0a7c4f16a2f9e192559777661bd49da38ac))
+
 ## [5.19.0](https://github.com/JetBrains/icons/compare/v5.18.0...v5.19.0) (2026-03-09)
 
 
