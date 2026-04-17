@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.21.0](https://github.com/JetBrains/icons/compare/v5.20.0...v5.21.0) (2026-04-17)
+
+
+### Features
+
+* **[publish]:** add activity, coverage and organization icons ([ff0c508](https://github.com/JetBrains/icons/commit/ff0c50863fe3fe1fa76769a6feab65a61d3d6302))
+
 ## [5.20.0](https://github.com/JetBrains/icons/compare/v5.19.0...v5.20.0) (2026-04-13)
 
 
