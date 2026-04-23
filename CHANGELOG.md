@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.22.0](https://github.com/JetBrains/icons/compare/v5.21.0...v5.22.0) (2026-04-23)
+
+
+### Features
+
+* **[publish]:** add run-anywhere icon ([7210a66](https://github.com/JetBrains/icons/commit/7210a6634ff95473c998e3d4c73cc67a6d5ce6bc))
+
 ## [5.21.0](https://github.com/JetBrains/icons/compare/v5.20.0...v5.21.0) (2026-04-17)
 
 
