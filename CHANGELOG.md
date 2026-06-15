@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.23.0](https://github.com/JetBrains/icons/compare/v5.22.0...v5.23.0) (2026-06-15)
+
+
+### Features
+
+* **[publish]:** add flaky and deployments test status icons ([1f1a3c7](https://github.com/JetBrains/icons/commit/1f1a3c7df52379f5b7138f1d8693942108a1e0c2))
+
 ## [5.22.0](https://github.com/JetBrains/icons/compare/v5.21.0...v5.22.0) (2026-04-23)
 
 
