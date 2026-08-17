@@ -5,6 +5,7 @@
 A set of icons used in JetBrains' web applications.
 
 ## Installation
+
 ```sh
 npm install @jetbrains/icons
 ```

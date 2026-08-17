@@ -1,5 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 16 16">
-  <g class="change">
-    <path stroke="currentColor" stroke-linecap="round" stroke-width="1.25" d="M3.36 2.57V11m-2-7.628 1.93-1.93a.1.1 0 0 1 .14 0l1.93 1.93m7.274 10.06V5m2 7.625-1.93 1.93a.1.1 0 0 1-.141 0l-1.93-1.93M6 5.5h4M6 8h4m-4 2.5h4" class="Vector"/>
-  </g>
+  <path stroke="currentColor" stroke-linecap="round" stroke-width="1.25" d="M3.36 2.57V11m-2-7.628 1.93-1.93a.1.1 0 0 1 .14 0l1.93 1.93m7.274 10.06V5m2 7.625-1.93 1.93a.1.1 0 0 1-.141 0l-1.93-1.93M6 5.5h4M6 8h4m-4 2.5h4" />
 </svg>

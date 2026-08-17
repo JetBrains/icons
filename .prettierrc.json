@@ -1,0 +1,19 @@
+{
+  "printWidth": 3000,
+  "overrides": [
+    {
+      "files": "**/*.js",
+      "options": {
+        "singleQuote": true,
+        "arrowParens": "avoid",
+        "trailingComma": "none"
+      }
+    },
+    {
+      "files": "**/*.svg",
+      "options": {
+        "parser": "html"
+      }
+    }
+  ]
+}
