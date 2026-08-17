@@ -27,15 +27,31 @@
   "devDependencies": {
     "commitizen": "^4.2.2",
     "cz-conventional-changelog": "^2.1.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.5.2",
+    "prettier": "^3.9.6",
     "standard-version": "^9.0.0",
     "svgo": "^3.0.2"
   },
   "scripts": {
     "start": "node example/index.js",
+    "lint": "node scripts/lint-svg.js",
+    "test": "node --test scripts/lint-svg.test.js",
+    "format": "prettier --write --ignore-unknown .",
+    "format:check": "prettier --check --ignore-unknown .",
+    "lint:staged": "lint-staged",
     "generate-exports": "node scripts/generate-exports.js",
     "build": "svgo -f src -o . && npm run generate-exports",
+    "prebuild": "npm run lint && npm test && npm run format:check",
+    "prepare": "husky",
     "commit": "git-cz",
     "prerelease:ci": "npm run build",
     "release:ci": "standard-version && git push --follow-tags origin master && npm publish"
+  },
+  "lint-staged": {
+    "*": [
+      "prettier --write --ignore-unknown",
+      "node scripts/lint-svg.js"
+    ]
   }
 }
