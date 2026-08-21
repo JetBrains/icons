@@ -11,6 +11,7 @@ test('selects only requested SVGs in src', () => {
 test('checks SVG conventions', () => {
   assert.deepEqual(lintSvg('src/log.svg', '<invalid>'), []);
   assert.deepEqual(lintSvg('icon-10px.svg', '<svg width="10" height="10" viewBox="0 0 10 10"/>'), ['size suffix must be 12px or 20px']);
+  assert.deepEqual(lintSvg('icon-12.0px.svg', '<svg width="12" height="12" viewBox="0 0 12 12"/>'), ['size suffix must be 12px or 20px']);
   assert.deepEqual(lintSvg('caret-down-10px.svg', '<svg width="10" height="10" viewBox="0 0 10 10"/>'), []);
   assert.deepEqual(lintSvg('icon-12px.svg', '<svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path class="secondary"/></svg>'), []);
   assert.deepEqual(lintSvg('icon.svg', '<svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path fill="transparent" stroke="none"/></svg>'), []);
