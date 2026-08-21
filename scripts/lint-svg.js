@@ -6,13 +6,17 @@ const { optimize } = require('svgo');
 
 const allowedClasses = new Set(['secondary', 'tertiary']);
 const allowedPaint = new Set(['currentColor', 'none', 'transparent']);
+const allowedSizes = new Set([12, 20]);
+const legacySizedIcons = new Set(['caret-down-10px', 'caret-right-10px', 'renamed-10px']);
 
 function lintSvg(file, source) {
   if (path.basename(file) === 'log.svg') return [];
 
   const errors = new Set();
   const basename = path.basename(file, '.svg');
-  const size = Number(basename.match(/-(\d+)px(?:-|$)/)?.[1] ?? 16);
+  const sizeMatch = basename.match(/-(\d+(?:\.\d+)?)px(?:-|$)/);
+  const size = Number(sizeMatch?.[1] ?? 16);
+  if (sizeMatch && !allowedSizes.has(size) && !legacySizedIcons.has(basename)) errors.add('size suffix must be 12px or 20px');
   const checkExplicitPaint = !basename.startsWith('file-');
   const checkClipPath = !basename.startsWith('file-properties');
   let groupCount = 0;
