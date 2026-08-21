@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.23.4](https://github.com/JetBrains/icons/compare/v5.23.3...v5.23.4) (2026-08-21)
+
 ### [5.23.3](https://github.com/JetBrains/icons/compare/v5.23.2...v5.23.3) (2026-08-21)
 
 ### [5.23.2](https://github.com/JetBrains/icons/compare/v5.23.1...v5.23.2) (2026-08-17)
