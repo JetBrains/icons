@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.25.0](https://github.com/JetBrains/icons/compare/v5.23.4...v5.25.0) (2026-11-19)
+
+### Features
+
+- **[publish]:** TW-105625 Add Build problems and Failed test icons ([3128f58](https://github.com/JetBrains/icons/commit/3128f586aeda246e1e383aa4d228e23cd574ac67))
+- add reset icons ([#38](https://github.com/JetBrains/icons/issues/38)) ([7aee2d7](https://github.com/JetBrains/icons/commit/7aee2d715ae74e15a99c6baa3de0f2f992b750e7))
+
 ## [5.24.0](https://github.com/JetBrains/icons/compare/v5.23.4...v5.24.0) (2026-10-26)
 
 ### Features
